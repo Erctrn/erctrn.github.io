@@ -1,18 +1,17 @@
-# erctrn.github.io
+# ![erctrn.github.io](https://erctrn.github.io/)
 
 This is a repo for my portfolio website.
 
-Credits:
+### Credits
+Background Image: 
+![Unsplash](https://unsplash.com/)
 
-	Background Image:
-		[Unsplash](unsplash.com)
+Icons: 
+![Font Awesome](https://fontawesome.com/)
 
-	Icons:
-		[Font Awesome](fontawesome.io)
+Site Boilerplate/Template: 
+![HTML5 UP](https://html5up.net/)
 
-	Site Boilerplate/Template: 
-		[HTML5 UP](html5up.net)
-
-	Other:
-		[jQuery](jquery.com)
-		[Responsive Tools](github.com/ajlkn/responsive-tools)
+Other: 
+![jQuery](https://jquery.com/) 
+![Responsive Tools](https://github.com/ajlkn/responsive-tools)
